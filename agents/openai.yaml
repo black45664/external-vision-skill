@@ -1,0 +1,4 @@
+interface:
+  display_name: "External Vision Skill"
+  short_description: "Describe or OCR images using an external vision model when your model cannot see images"
+  default_prompt: "Describe this image for me."
