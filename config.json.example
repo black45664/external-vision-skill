@@ -1,0 +1,7 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "endpoint": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+  "model": "glm-4v-flash",
+  "allowed_models": ["*"],
+  "timeout_ms": 180000
+}
